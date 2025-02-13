@@ -1,0 +1,329 @@
+body {
+    font-family: sans-serif;
+    background-color: #b8aaa9}
+
+header h1 {
+    text-align: center;
+    color: #ffffff;
+    margin-top: -350px;
+    }
+header img{
+    width: 100%;
+    height: auto;
+}
+header p{
+    text-align: center;
+    font-size: 25px;
+    color: #dfdfdf;
+}
+main p{
+    font-size: 20px;
+    color: #2e2d2d;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(131, 88, 88);
+    font-size: 17px;
+    margin: 25px;
+    transition: 0.5s;
+}
+nav{
+    background-color: #e29e9e;
+    border: 4px dotted #b51105;
+    text-align: center;
+    line-height: 80px;
+    height: 80px;
+
+    top: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+}
+nav a:hover{
+    font-size: 22px;
+    color: rgb(192, 35, 35);
+    transition: 0.5s;
+}
+
+.cards{
+    display: flex; 
+}
+.cards-2{
+    display: flex;
+}
+.card-1 img{
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+}
+.card-1{
+    border: 4px solid wheat;
+    width: 210px;
+    height: 325px;
+    text-align: center;
+    color: #2e2d2d;
+    background-color: rgb(194, 58, 58);
+    transition: 1s;
+}
+.card-1 a{
+        text-decoration: none;
+        padding: 13px;
+        color: #8a6262;
+        transition: 0.6s;
+        border: 2px solid rgb(207, 116, 116);
+        background-color: #e2b1b1;
+        border-radius: 10px;
+}
+.card-1 a:hover{
+    color:#2e2d2d;
+    font-size: 19px;
+    transition: 0.6s;
+}
+.card-1:hover{
+    box-shadow: 5px 8px 10px 0 #2e2d2d;
+   width: 230px;
+   height: 350px;
+    transition: 1s;
+}
+.card-2 img{
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+}
+.card-2{
+    border: 4px solid wheat;
+    width: 210px;
+    height: 325px;
+    text-align: center;
+    color: #2e2d2d;
+    background-color: rgb(194, 58, 58);
+    transition: 1s;
+}
+.card-2 a{
+        text-decoration: none;
+        padding: 13px;
+        color: #8a6262;
+        transition: 0.6s;
+        border: 2px solid rgb(207, 116, 116);
+        background-color: #e2b1b1;
+        border-radius: 10px;
+}
+.card-2 a:hover{
+    color:#2e2d2d;
+    font-size: 19px;
+    transition: 0.6s;
+}
+.card-2:hover{
+    box-shadow: 5px 8px 10px 0 #2e2d2d;
+   width: 230px;
+   height: 350px;
+    transition: 1s;
+}
+.card-3 img{
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+}
+.card-3{
+    border: 4px solid wheat;
+    width: 210px;
+    height: 325px;
+    text-align: center;
+    color: #2e2d2d;
+    background-color: rgb(194, 58, 58);
+    transition: 1s;
+}
+.card-3 a{
+        text-decoration: none;
+        padding: 13px;
+        color: #8a6262;
+        transition: 0.6s;
+        border: 2px solid rgb(207, 116, 116);
+        background-color: #e2b1b1;
+        border-radius: 10px;
+}
+.card-3 a:hover{
+    color:#2e2d2d;
+    font-size: 19px;
+    transition: 0.6s;
+}
+.card-3:hover{
+    box-shadow: 5px 8px 10px 0 #2e2d2d;
+   width: 230px;
+   height: 350px;
+    transition: 1s;
+}
+.card-4 img{
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+}
+.card-4{
+    border: 4px solid wheat;
+    width: 210px;
+    height: 325px;
+    text-align: center;
+    color: #2e2d2d;
+    background-color: rgb(194, 58, 58);
+    transition: 1s;
+}
+.card-4 a{
+        text-decoration: none;
+        padding: 13px;
+        color: #8a6262;
+        transition: 0.6s;
+        border: 2px solid rgb(207, 116, 116);
+        background-color: #e2b1b1;
+        border-radius: 10px;
+}
+.card-4 a:hover{
+    color:#2e2d2d;
+    font-size: 19px;
+    transition: 0.6s;
+}
+.card-4:hover{
+    box-shadow: 5px 8px 10px 0 #2e2d2d;
+   width: 230px;
+   height: 350px;
+    transition: 1s;
+}
+.card-5 img{
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+}
+.card-5{
+    border: 4px solid wheat;
+    width: 210px;
+    height: 325px;
+    text-align: center;
+    color: #2e2d2d;
+    background-color: rgb(194, 58, 58);
+    transition: 1s;
+}
+.card-5 a{
+        text-decoration: none;
+        padding: 13px;
+        color: #8a6262;
+        transition: 0.6s;
+        border: 2px solid rgb(207, 116, 116);
+        background-color: #e2b1b1;
+        border-radius: 10px;
+}
+.card-5 a:hover{
+    color:#2e2d2d;
+    font-size: 19px;
+    transition: 0.6s;
+}
+.card-5:hover{
+    box-shadow: 5px 8px 10px 0 #2e2d2d;
+   width: 230px;
+   height: 350px;
+    transition: 1s;
+}
+.card-6 img{
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+}
+.card-6{
+    border: 4px solid wheat;
+    width: 210px;
+    height: 325px;
+    text-align: center;
+    color: #2e2d2d;
+    background-color: rgb(194, 58, 58);
+    transition: 1s;
+}
+.card-6 a{
+        text-decoration: none;
+        padding: 13px;
+        color: #8a6262;
+        transition: 0.6s;
+        border: 2px solid rgb(207, 116, 116);
+        background-color: #e2b1b1;
+        border-radius: 10px;
+}
+.card-6 a:hover{
+    color:#2e2d2d;
+    font-size: 19px;
+    transition: 0.6s;
+}
+.card-6:hover{
+    box-shadow: 5px 8px 10px 0 #2e2d2d;
+   width: 230px;
+   height: 350px;
+    transition: 1s;
+}
+.card-7 img{
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+}
+.card-7{
+    border: 4px solid wheat;
+    width: 210px;
+    height: 325px;
+    text-align: center;
+    color: #2e2d2d;
+    background-color: rgb(194, 58, 58);
+    transition: 1s;
+}
+.card-7 a{
+        text-decoration: none;
+        padding: 13px;
+        color: #8a6262;
+        transition: 0.6s;
+        border: 2px solid rgb(207, 116, 116);
+        background-color: #e2b1b1;
+        border-radius: 10px;
+}
+.card-7 a:hover{
+    color:#2e2d2d;
+    font-size: 19px;
+    transition: 0.6s;
+}
+.card-7:hover{
+    box-shadow: 5px 8px 10px 0 #2e2d2d;
+   width: 230px;
+   height: 350px;
+    transition: 1s;}
+    
+.card-8 img{
+    width: 190px;
+    height: 200px;
+    padding: 10px;
+}
+.card-8{
+    border: 4px solid wheat;
+    width: 210px;
+    height: 325px;
+    text-align: center;
+    color: #2e2d2d;
+    background-color: rgb(194, 58, 58);
+    transition: 1s;
+}
+.card-8 a{
+        text-decoration: none;
+        padding: 13px;
+        color: #8a6262;
+        transition: 0.6s;
+        border: 2px solid rgb(207, 116, 116);
+        background-color: #e2b1b1;
+        border-radius: 10px;
+}
+.card-8 a:hover{
+    color:#2e2d2d;
+    font-size: 19px;
+    transition: 0.6s;
+}
+.card-8:hover{
+    box-shadow: 5px 8px 10px 0 #2e2d2d;
+   width: 230px;
+   height: 350px;
+    transition: 1s;}
+
+.foot{
+    display: flex;
+}
