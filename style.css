@@ -28,7 +28,7 @@ nav a{
     margin: 25px;
     transition: 0.5s;
 }
-nav{
+body nav{
     background-color: #e29e9e;
     border: 4px dotted #b51105;
     text-align: center;
@@ -324,6 +324,24 @@ nav a:hover{
    height: 350px;
     transition: 1s;}
 
+main a{
+    text-decoration: none;
+}
 .foot{
     display: flex;
+}
+footer a{
+    text-decoration: none;
+}
+.footnav a{
+    color: #4e3230;
+    transition: 0.4s;
+}
+.footnav a:hover{
+    color: #9c1006;
+    font-size: 20px;
+    transition: 0.3s;
+}
+.sponsors{
+    font-size: 3.7px;
 }
